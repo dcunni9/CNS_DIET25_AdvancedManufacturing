@@ -17,7 +17,7 @@ In Year 1 (2025), the project team is selecting a demonstration component, defin
 
 This presentation describes the project structure, deliverables, and the latest findings and developments. We acknowledge the support of Natural Resources Canada (Enabling Small Modular Reactors Program) for this work.
 
-# Canadian Nuclear Society - Disruptive, Innovation, Emerging Technologies Conference 2025
+## Canadian Nuclear Society - Disruptive, Innovation, Emerging Technologies Conference 2025
 
 <embed src="DIET25_SMR.pdf" type="application/pdf" width="100%" height="600px" />
 

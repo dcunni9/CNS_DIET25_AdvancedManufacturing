@@ -2,7 +2,7 @@
 
 Presenting Author: David E. Cunningham 
 
-- [Resume](https://dcunni9.github.io)
+[![Resume](https://github.com/dguo/make-a-readme/actions/workflows/CI.yml/badge.svg)](https://dcunni9.github.io/)
 
 Contributing Authors: Eric Sansoucy, Scott Read, Dave Waldbillig
 
